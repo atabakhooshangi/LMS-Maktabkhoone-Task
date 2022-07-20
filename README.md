@@ -16,3 +16,8 @@ Activate the virtual environment and install dependencies written in requirement
 pip install -r requirements.txt
 ```
 
+### Postman Collection
+
+I've added postman collection for convenience named -> Maktab Khoone Task.postman_collection
+
+
